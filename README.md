@@ -14,5 +14,4 @@ The list of words to study should be put into a plain text file named
 word_list.txt with one word per line and placed in the same directory 
 as scrambled-o.pyw.
 
-Version 1.1
-16 December 2017
+Version 1.1 (16 December 2017)
