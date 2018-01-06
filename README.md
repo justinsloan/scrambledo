@@ -1,5 +1,7 @@
 # Scrambled-O!!
-A Simple Word Scramble Game for Elementary Vocabulary Study
+>A Simple Word Scramble Game for Elementary Vocabulary Study
+
+***NOTE:* This is a Proof of Concept Prototype. While fully functional, the user interface and underlying code are not optimised and may not meet general user requirements or standards.*
 
 # What is it?
 This is a simple word scramble game made for my second-grade daughter
