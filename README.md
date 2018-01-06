@@ -6,7 +6,7 @@
 # What is it?
 This is a simple word scramble game made for my second-grade daughter
 to help her study for her spelling tests.  It uses a modified version
-of John Zelle's graphics.py package to allow for Text Box lebel
+of John Zelle's graphics.py package to allow for Text Box label
 objects to have a font size up to 64.  If you do not use the modified
 version of graphics.py you will receive an "Invallid option value"
 error.
